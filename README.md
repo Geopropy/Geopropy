@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Williams Alexander Gomez M</h1>
 <h3 align="center">A passionate data Analist - Geosciences</h3>
 
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me:</h3>www.linkedin.com/in/-gomez-m-alexander
 <p align="left">
 </p>
 
